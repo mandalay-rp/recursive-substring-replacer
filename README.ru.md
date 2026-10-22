@@ -21,7 +21,7 @@
 ## Установка
 
 ```bash
-git clone <repo-url> replace
+git clone https://github.com/mandalay-rp/recursive-substring-replacer replace
 cd replace
 chmod +x replace.sh
 ```
